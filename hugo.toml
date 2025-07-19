@@ -1,0 +1,88 @@
+baseURL = "https://yourdomain.com/"
+languageCode = "en"
+title = "Faisal's Blog"
+theme = "hugo-coder"
+defaultContentLanguage = "en"
+enableEmoji = true
+
+[pagination]
+  pagerSize = 5
+
+[params]
+  author = "Faisal Khan"
+  info = "Reverse Engineering | Web Dev Learner"
+  description = "My Personal Tech Blog"
+  keywords = "blog, reverse engineering, developer, faisal, coding"
+  avatarURL = "images/avatar.jpg"
+  dateFormat = "2006-01-02"
+  since = 2025
+  colorScheme = "auto"  # light, dark, auto
+  hideFooter = false
+  hideCredits = false
+  rtl = false
+  enableTwemoji = true
+
+# Optional – remove 🇧🇷 (language flag)
+[languages]
+  [languages.en]
+    languageName = "English"
+    weight = 1
+[[menu.main]]
+  name = "Home"
+  weight = 1
+  url = "/"
+
+[[menu.main]]
+  name = "Blog"
+  weight = 2
+  url = "/posts/"
+
+[[menu.main]]
+  name = "About"
+  weight = 3
+  url = "/about/"
+
+[[menu.main]]
+  name = "Projects"
+  weight = 4
+  url = "/projects/"
+
+[[menu.main]]
+  name = "Contact"
+  weight = 5
+  url = "/contact/"
+[[params.social]]
+  name = "Github"
+  icon = "fa fa-github"
+  weight = 1
+  url = "https://github.com/yourusername"
+
+[[params.social]]
+  name = "Facebook"
+  icon = "fa fa-facebook"
+  weight = 2
+  url = "https://facebook.com/yourusername"
+
+[[params.social]]
+  name = "WhatsApp"
+  icon = "fa fa-whatsapp"
+  weight = 3
+  url = "https://wa.me/923001234567"
+
+[[params.social]]
+  name = "X"
+  icon = "fa fa-twitter"
+  weight = 4
+  url = "https://twitter.com/yourusername"
+
+[[params.social]]
+  name = "Instagram"
+  icon = "fa fa-instagram"
+  weight = 5
+  url = "https://instagram.com/yourusername"
+
+[[params.social]]
+  name = "LinkedIn"
+  icon = "fa fa-linkedin"
+  weight = 6
+  url = "https://linkedin.com/in/yourusername"
