@@ -1,17 +1,22 @@
-+++
-title = "Hello this is my first post ever"
-date = "2025-07-23T08:52:54+05:00"
-draft = false
-tags = ["introduction", "welcome"]
-categories = ["tech"]
-author = "Faisal Khan"
-
-[cover]
-image = "/img/cropped-logo.jpg" # Path should start with `/` if inside static/
-alt = "this is post image"
-caption = "this is caption of image"
-
-+++
+---
+draft: false
+author: Faisal Khan
+date: 2025-07-23T08:52:54+05:00
+cover:
+  image: /img/cropped-logo.jpg
+  alt: this is post image
+  caption: this is caption of image
+title: Hello this is my first post ever testing
+description: I'm excited to welcome you to my brand new blog built using Hugo, a
+  fast and modern static site generator. I've been working on setting up
+  everything from scratch — from the layout to theming and deployment on
+  Netlify.
+tags:
+  - introduction
+  - welcome
+categories:
+  - tech
+---
 
 
 
