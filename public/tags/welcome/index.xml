@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Welcome on Dazcfutboltv</title>
+    <link>//localhost:1313/tags/welcome/</link>
+    <description>Recent content in Welcome on Dazcfutboltv</description>
+    <generator>Hugo -- 0.148.1</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 23 Jul 2025 08:52:54 +0500</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/welcome/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello this is my first post ever</title>
+      <link>//localhost:1313/posts/first/</link>
+      <pubDate>Wed, 23 Jul 2025 08:52:54 +0500</pubDate>
+      <guid>//localhost:1313/posts/first/</guid>
+      <description>&lt;p&gt;Hello everyone! 👋&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m excited to welcome you to my brand new blog built using &lt;strong&gt;Hugo&lt;/strong&gt;, a fast and modern static site generator. I&amp;rsquo;ve been working on setting up everything from scratch — from the layout to theming and deployment on &lt;strong&gt;Netlify&lt;/strong&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;-why-i-chose-hugo&#34;&gt;🔧 Why I Chose Hugo&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;It&amp;rsquo;s super fast ⚡&lt;/li&gt;
+&lt;li&gt;Easy to customize&lt;/li&gt;
+&lt;li&gt;Ideal for both blogging and portfolio sites&lt;/li&gt;
+&lt;li&gt;Works smoothly with GitHub and Netlify&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-what-to-expect&#34;&gt;🚀 What to Expect&lt;/h3&gt;
+&lt;p&gt;In this blog, I’ll share:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hello this is my second post ever</title>
+      <link>//localhost:1313/posts/secondpost/</link>
+      <pubDate>Wed, 23 Jul 2025 08:52:54 +0500</pubDate>
+      <guid>//localhost:1313/posts/secondpost/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
