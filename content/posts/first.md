@@ -10,7 +10,7 @@ title: Hello this is my first post ever testing
 description: I'm excited to welcome you to my brand new blog built using Hugo, a
   fast and modern static site generator. I've been working on setting up
   everything from scratch — from the layout to theming and deployment on
-  Netlify.
+  Netlify..
 tags:
   - introduction
   - welcome
