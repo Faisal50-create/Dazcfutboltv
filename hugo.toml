@@ -1,0 +1,59 @@
+baseURL = ''
+languageCode = 'en-us'
+title = 'Dazcfutboltv'
+theme = 'PaperMod'
+[params]
+[params.homeInfoParams]
+Title = "Welcome to My Tech Blog"
+Content = "This is a place where I share tutorials, tools, and insights about technology, programming, and digital life. Stay connected!"
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/yourusername"
+
+[[params.socialIcons]]
+name = "twitter"
+url = "https://twitter.com/yourusername"
+
+[[params.socialIcons]]
+name = "linkedin"
+url = "https://linkedin.com/in/yourusername"
+
+# Add more if needed (use names supported by PaperMod)
+
+
+  ShowCategories = true
+  ShowTags = true
+  ShowDate = true
+  linkfullimages = true
+  showbreadcrumbs = true
+  showAuthor = true
+  showreadingtime = true
+  showsharebuttons = true
+  showPostNavLinks = true
+# This is the main menu for the top navbar
+[menu]
+
+  [[menu.main]]
+  identifier = "home"
+  name = "Home"
+  url = "/"
+  weight = 1
+
+  [[menu.main]]
+  identifier = "posts"
+  name = "Posts"
+  url = "/posts/"
+  weight = 2
+
+  [[menu.main]]
+  identifier = "categories"
+  name = "Categories"
+  url = "/categories/"
+  weight = 3
+
+  [[menu.main]]
+  identifier = "tags"
+  name = "Tags"
+  url = "/tags/"
+  weight = 4
