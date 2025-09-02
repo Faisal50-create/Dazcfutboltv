@@ -1,0 +1,45 @@
+{{ define "main" }}
+  <section class="hero">
+    <div class="container">
+      <h1>{{ .Site.Title }}</h1>
+      {{ partial "social-icons.html" . }}
+      <section class="site-description">
+    
+    <p class="desc-text">
+      En <strong>dazcfutboltv</strong> disfruta de todos los 
+      <a href="/laliga/">partidos de fútbol en vivo</a> y en directo, gratis y sin cortes. 
+      Accede a transmisiones de <a href="/champions-league/">Champions League</a>, 
+      <a href="/copa-libertadores/">Copa Libertadores</a>, 
+      <a href="/sudamericana/">Copa Sudamericana</a>, 
+      <a href="/serie-a/">Serie A</a>, 
+      <a href="/premier-league/">Premier League</a> y muchas más ligas internacionales. Mira a tus equipos favoritos como 
+      <a href="/boca-juniors/">Boca Juniors</a>, 
+      <a href="/river-plate/">River Plate</a>, 
+      <a href="/real-madrid/">Real Madrid</a>, 
+      <a href="/barcelona/">Barcelona</a> y 
+      <a href="/chivas/">Chivas</a>. Además, disfruta de canales deportivos como ESPN, FOX Sports, DirecTV, TNT Sports y TyC Sports en calidad HD. Todo el 
+      <strong>fútbol online</strong> en HD desde tu móvil, PC o Smart TV, sin necesidad de suscripción. Sigue la pasión del fútbol con 
+      <strong>dazcfutboltv</strong> estés donde estés.
+    </p>
+  </section>
+      <a href="https://shorturl.at/bWmem" 
+   class="apk-btn" 
+   download 
+   title="Descargar Dazcfutboltv APK gratis para ver fútbol en vivo">
+   📥 Dazcfutboltv APK
+</a>
+    </div>
+  </section>    
+    <section id="live-matches">
+  <h2>Ver Fútbol en Vivo con <span>dazcfutboltv</span></h2>
+  <iframe src="/demo.html" 
+          style="width:100%; height: 500px; border:none; overflow:hidden;" 
+          loading="lazy">
+          
+  </iframe>
+</section>
+
+  
+   {{ partial "tv-channels.html" . }}
+  {{ partial "faqs.html" . }}
+{{ end }}

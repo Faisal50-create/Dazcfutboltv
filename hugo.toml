@@ -1,0 +1,75 @@
+baseURL = "https://dazcfutboltv.netlify.app/"
+languageCode = "es-ES"
+title = "DazcFutbolTV - Partidos en Directo y Canales Deportivos"
+theme = "Mango"
+enableRobotsTXT = true
+
+
+[params]
+  description = "En dazcfutboltv puedes ver fútbol en vivo online gratis. Disfruta LaLiga, Champions, Copa Libertadores, Sudamericana, ESPN y FOX Sports en HD"
+  author = "DazcFutbolTV"
+  copyright = "© 2024 DazcFutbolTV. All Rights Reserved."
+  keywords = ["DazcFutbolTV", "dazcfutbolios", "DazcFutboltv App", "futbol en vivo", "Partidos de futbol"]
+  
+  logo = "/images/logo.png"
+  favicon = "/favicon.ico"
+  og_image = "/images/social-preview.jpg"
+    
+[params.social]
+  twitter = "https://twitter.com/YourHandle"
+  facebook = "https://facebook.com/YourPage"
+  instagram = "https://instagram.com/YourProfile"
+  youtube = "https://youtube.com/@YourChannel"
+
+# Main menu - correct array syntax
+[[menu.main]]
+  identifier = "home"
+  name = "Home"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  identifier = "matches"
+  name = "Live Matches"
+  url = "/matches/"
+  weight = 2
+
+[[menu.main]]
+  identifier = "blog"  # <-- Closing quote was missing
+  name = "Blog"        # <-- Closing quote was missing
+  url = "/blog/"       # <-- Added trailing slash for consistency
+  weight = 3
+
+[[menu.main]]
+  identifier = "about"
+  name = "About"
+  url = "/about/"
+  weight = 4
+
+# Footer menu - correct array syntax
+[[menu.footer]]
+  name = "Privacy Policy"
+  url = "/privacy/"
+
+[[menu.footer]]
+  name = "DMCA"
+  url = "/dmca/"
+
+[[menu.footer]]
+  name = "Contact"
+  url = "/contact/"
+
+[services.googleAnalytics]
+  ID = "G-XXXXXXXXXX"
+
+[outputs]
+  home = ["HTML", "RSS"]
+# add near top of hugo.toml
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+[permalinks]
+  blog = "/blog/:slug/"
+
+  
