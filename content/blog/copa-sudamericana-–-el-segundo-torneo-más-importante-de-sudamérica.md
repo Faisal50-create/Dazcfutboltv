@@ -3,6 +3,8 @@ title: Copa Sudamericana – El segundo torneo más importante de Sudamérica
 date: 2025-09-08T04:22:16.122Z
 categories:
   - Copa Sudamericana
+description: "Conoce todo sobre la Copa Sudamericana: historia, formato, equipos
+  y cómo verla online en vivo con señal estable en dazcfutboltv"
 seo_title: Copa Sudamericana en vivo 2025 | Historia, formato y streaming
 meta_description: "Conoce todo sobre la Copa Sudamericana: historia, formato,
   equipos y cómo verla online en vivo con señal estable en dazcfutboltv"
