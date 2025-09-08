@@ -34,7 +34,7 @@ Uno de los puntos fuertes de ESPN6 es su apuesta por el **contenido audiovisual 
 ### Experiencia Digital y Streaming
 
 Con la evolución del consumo deportivo, ESPN6 se adapta ofreciendo su señal a través de plataformas online. Sin embargo, muchos usuarios encuentran dificultades para acceder a transmisiones oficiales debido a restricciones geográficas o costos elevados.\
-Aquí es donde **[dazcfutboltv](https://dazcfutboltv/)** se convierte en la mejor alternativa. Este portal permite ver ESPN6 en vivo desde cualquier dispositivo, sin cortes y con una señal estable. Además, centraliza varios canales deportivos, facilitando el acceso a todo tipo de competiciones en un mismo lugar.
+Aquí es donde **[dazcfutboltv](https://dazcfutboltv.me/)** se convierte en la mejor alternativa. Este portal permite ver ESPN6 en vivo desde cualquier dispositivo, sin cortes y con una señal estable. Además, centraliza varios canales deportivos, facilitando el acceso a todo tipo de competiciones en un mismo lugar.
 
 ### Accesibilidad y Compatibilidad
 
@@ -51,7 +51,7 @@ Esto significa que los aficionados pueden seguir sus deportes favoritos **en cua
 * **Diversidad de contenido**: no se limita al fútbol, sino que explora múltiples disciplinas.
 * **Cobertura completa**: incluye análisis, previas, debates y resúmenes.
 * **Conexión con el aficionado**: permite conocer de cerca a los deportistas y sus historias.
-* **Disponibilidad en línea**: gracias a [dazcfutboltv](https://dazcfutboltv/), ver ESPN6 online es sencillo, rápido y seguro.
+* **Disponibilidad en línea**: gracias a [dazcfutboltv](https://dazcfutboltv.me/), ver ESPN6 online es sencillo, rápido y seguro.
 
 ### Conclusión
 
