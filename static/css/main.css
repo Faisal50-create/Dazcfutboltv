@@ -79,7 +79,7 @@ body {
   width: 100%;
   max-width: var(--container-width);
   margin: 0 auto;
-  padding: 0 10px;
+  padding: 0 20px;
 }
 
 h1, h2 {
