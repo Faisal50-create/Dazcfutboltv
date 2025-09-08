@@ -16,5 +16,5 @@ Liga 1 MAX es el canal oficial encargado de transmitir en exclusiva los partidos
 
 Este canal no solo emite los encuentros más importantes de la temporada, sino que también resalta el talento local, ofreciendo una plataforma de visibilidad para los clubes peruanos. Además, cuenta con producción de alta calidad que garantiza imágenes nítidas, comentarios expertos y una experiencia televisiva de primer nivel.
 
-Para los aficionados que desean seguir todos los encuentros de Liga 1 MAX desde cualquier parte del mundo, la mejor alternativa es dazcfutboltv
+Para los aficionados que desean seguir todos los encuentros de Liga 1 MAX desde cualquier parte del mundo, la mejor alternativa es [dazcfutboltv](https://dazcfutboltv.me/)
 . Allí encontrarás acceso seguro y actualizado para no perderte ningún partido ni momento clave del campeonato peruano.
