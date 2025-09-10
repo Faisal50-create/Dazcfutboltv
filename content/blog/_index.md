@@ -1,8 +1,10 @@
 ---
-title: "Welcome to My Hub"
-date: 2023-01-01
-draft: false
-subtitle: "A collection of insightful articles"
+Título: "Bienvenido a Mi Centro"
+Subtítulo: "Una colección de artículos interesantes"
+Descripción: "Mantente al día con los últimos artículos de fútbol, ​​análisis de partidos y noticias en nuestro blog".
+Palabras clave: "blog de fútbol, ​​actualizaciones de partidos, noticias deportivas"
+Fecha: 9/10/2025
+Borrador: falso
 ---
 
-This is the homepage content that appears above your post grid.
+Este es el contenido de la página principal que aparece sobre la cuadrícula de publicaciones.
