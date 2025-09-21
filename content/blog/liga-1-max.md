@@ -1,6 +1,7 @@
 ---
 title: Liga 1 MAX
 date: 2025-08-30T08:07:28.215Z
+featured_image: /uploads/espn1.webp
 categories:
   - Channels
 description: Sigue en vivo la Liga 1 de Perú por Liga 1 MAX, con partidos
