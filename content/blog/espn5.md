@@ -1,6 +1,7 @@
 ---
 title: ESPN5
 date: 2025-08-30T07:48:45.872Z
+featured_image: /uploads/espn5.webp
 categories:
   - Channels
 description: Explora ESPN5 con béisbol, eSports y deportes alternativos.
