@@ -1,7 +1,7 @@
 ---
 title: ESPN4
 date: 2025-08-30T07:46:19.833Z
-featured_image: /uploads/espn2.webp
+featured_image: /uploads/espn4.webp
 categories:
   - Channels
 description: ESPN4 transmite campeonatos internacionales, eliminatorias y
