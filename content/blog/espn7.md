@@ -1,7 +1,7 @@
 ---
 title: ESPN7
 date: 2025-08-30T08:00:07.817Z
-featured_image: /uploads/premier-league.webp
+featured_image: /uploads/espn7.webp
 categories:
   - Channels
 description: ESPN7 transmite ligas juveniles y deportes emergentes en exclusiva.
