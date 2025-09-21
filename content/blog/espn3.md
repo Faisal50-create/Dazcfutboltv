@@ -1,6 +1,7 @@
 ---
 title: ESPN3
 date: 2025-08-30T07:45:24.582Z
+featured_image: /uploads/espn3.webp
 categories:
   - Channels
 description: Accede a ESPN3 para ligas emergentes, deportes universitarios y
