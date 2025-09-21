@@ -1,7 +1,7 @@
 ---
 title: ESPN6
 date: 2025-08-30T07:49:45.635Z
-featured_image: /uploads/featuredimageswp-og.jpg
+featured_image: /uploads/espn6.webp
 categories:
   - Channels
 description: ESPN6 combina partidos, reportajes y documentales deportivos.
