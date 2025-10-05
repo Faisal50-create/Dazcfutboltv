@@ -3,6 +3,7 @@ languageCode = "es-ES"
 title = "DazcFutbolTV - Partidos en Directo y Canales Deportivos"
 theme = "Mango"
 enableRobotsTXT = true
+googleAnalytics = "G-WZQZBP2ZCL"
 
 [params]
   description = "En dazcfutboltv puedes ver fútbol en vivo online gratis. Disfruta LaLiga, Champions, Copa Libertadores, Sudamericana, ESPN y FOX Sports en HD"
